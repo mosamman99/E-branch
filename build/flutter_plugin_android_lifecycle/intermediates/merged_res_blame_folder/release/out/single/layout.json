@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/flutter_plugin_android_lifecycle/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/89411716e5eb33c362760e0f0655834e/core-1.6.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/flutter_plugin_android_lifecycle/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/89411716e5eb33c362760e0f0655834e/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/flutter_plugin_android_lifecycle/intermediates/res/merged/release/layout/custom_dialog.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/89411716e5eb33c362760e0f0655834e/core-1.6.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/flutter_plugin_android_lifecycle/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/89411716e5eb33c362760e0f0655834e/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/flutter_plugin_android_lifecycle/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/89411716e5eb33c362760e0f0655834e/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/flutter_plugin_android_lifecycle/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/89411716e5eb33c362760e0f0655834e/core-1.6.0/res/layout/notification_template_part_time.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/geocoding/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/89411716e5eb33c362760e0f0655834e/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/geocoding/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/89411716e5eb33c362760e0f0655834e/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/geocoding/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/89411716e5eb33c362760e0f0655834e/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/geocoding/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/89411716e5eb33c362760e0f0655834e/core-1.6.0/res/drawable/notification_bg_low.xml"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/geolocator_android/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/33ea0de64cc4d90977cab4d5ee5850a6/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/geolocator_android/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/33ea0de64cc4d90977cab4d5ee5850a6/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/geolocator_android/intermediates/res/merged/release/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/33ea0de64cc4d90977cab4d5ee5850a6/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/geolocator_android/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/33ea0de64cc4d90977cab4d5ee5850a6/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/geolocator_android/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/33ea0de64cc4d90977cab4d5ee5850a6/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/geolocator_android/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/89411716e5eb33c362760e0f0655834e/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/geolocator_android/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/33ea0de64cc4d90977cab4d5ee5850a6/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/geolocator_android/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/89411716e5eb33c362760e0f0655834e/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/geolocator_android/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/33ea0de64cc4d90977cab4d5ee5850a6/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/geolocator_android/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/33ea0de64cc4d90977cab4d5ee5850a6/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/geolocator_android/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/33ea0de64cc4d90977cab4d5ee5850a6/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/geolocator_android/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/89411716e5eb33c362760e0f0655834e/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/geolocator_android/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/33ea0de64cc4d90977cab4d5ee5850a6/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/geolocator_android/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/33ea0de64cc4d90977cab4d5ee5850a6/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/geolocator_android/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/33ea0de64cc4d90977cab4d5ee5850a6/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/geolocator_android/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/33ea0de64cc4d90977cab4d5ee5850a6/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/geolocator_android/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/33ea0de64cc4d90977cab4d5ee5850a6/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/mohamedelsamman/Desktop/flutterProjects/ebranch/build/geolocator_android/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/mohamedelsamman/.gradle/caches/transforms-2/files-2.1/89411716e5eb33c362760e0f0655834e/core-1.6.0/res/drawable/notification_icon_background.xml"
+    }
+]
